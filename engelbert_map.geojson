@@ -1,0 +1,95 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3418,47.60777 ]
+    },
+    "properties": {
+    "Pronto Station":"ALASKAN WAY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.31702,47.61851 ]
+    },
+    "properties": {
+    "Pronto Station":"12TH AVE "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3441,47.61302 ]
+    },
+    "properties": {
+    "Pronto Station":"BLANCHARD ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.34841,47.61574 ]
+    },
+    "properties": {
+    "Pronto Station":"2ND AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.33731,47.61361 ]
+    },
+    "properties": {
+    "Pronto Station":"6TH AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.35093,47.61845 ]
+    },
+    "properties": {
+    "Pronto Station":"3RD AVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3396,47.62441 ]
+    },
+    "properties": {
+    "Pronto Station":"9TH AVE N"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.33306,47.60072 ]
+    },
+    "properties": {
+    "Pronto Station":"S MAIN ST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.33244,47.61073 ]
+    },
+    "properties": {
+    "Pronto Station":"7TH AVE"
+    }
+  }
+]
+}
